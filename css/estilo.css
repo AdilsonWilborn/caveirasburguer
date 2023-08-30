@@ -8,14 +8,11 @@ html, body, #home {
 }
 
 body {
-	background: url(../imagens/capa.png),
+	
 				url(../imagens/ruido.png),
 				linear-gradient(50deg,#000000,#000000);
 	background-attachment: fixed;
-    max-width:200px;
-    max-height:150px;
-    width: auto;
-    height: auto;
+
 	
 	font-family: Helvetica,Arial,sans-serif;
 }
